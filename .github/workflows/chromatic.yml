@@ -1,6 +1,6 @@
 name: "Chromatic"
 
-on: pull
+on: push
 
 jobs:
   chromatic:
