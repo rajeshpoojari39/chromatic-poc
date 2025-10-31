@@ -8,7 +8,8 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_02289ed07aa485d"
   },
   "keywords": [],
   "author": "",
